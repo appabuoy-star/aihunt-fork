@@ -2,4 +2,4 @@
 set -euo pipefail
 
 # Execute u.sh with sample.txt
-./u.sh sample.txt
+bash ./u.sh sample.txt
